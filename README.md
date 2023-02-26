@@ -128,3 +128,4 @@ Congratulations! You just created your first Git repository!
 ## Summary
 
 In this lesson, we continued to practice our bash skills with the command line and started practicing our version control skills with Git. We created our first Git repository from scratch, and practiced adding, commiting, and pushing those changes to GitHub.
+# git_practice
